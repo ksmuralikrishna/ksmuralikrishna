@@ -1,54 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Muralikrishna K S/h1>
+<div align="center">
 
----
-title: AshifMohammad
-date: '2020-08-22'
-spoiler: Code Styled Readme Template
-categories: ["code-styled", "all-profile"]
-githubUsername: 'AshifMohammad'
----
+🎓 I'm a Computer Science Graduate<br>
+💻 I'm a Python Full Stack Developer<br>
 
 
+📄 Discover my qualifications and experience in detail in my [resume](https://tinyurl.com/anirudh-a-v-res)<br>
+🌐 You can see some of my projects on [my portfolio](https://iamanirudhav.vercel.app/)
+<br>
+<p align="center">
+<a href="https://twitter.com/pranavpranj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranavpranj" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pranav-jayachandran-b971bb1b8?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bp9tuqzizsb6snmr93jcadg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranav-jayachandran-b971bb1b8?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bp9tuqzizsb6snmr93jcadg%3d%3d" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/pranj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/pranj" height="30" width="40" /></a>
+<a href="https://leetcode.com/pranj_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/pranj_/" height="30" width="40" /></a>
+</p>
 
-### Hi there 👋
+<h2 align="center">:sparkles: Technologies I use</h2>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,tailwind,vite,mongodb,vercel,js,html,css,py,firebase,c,cpp,cs,dotnetgit,github,postgres,ts,flask&perline=8" />
+  </a>
+</p>
 
-<h2> I'm Ashif Zafar! <img src="https://media.giphy.com/media/S8kcDWOvua4l6lJ0Az/source.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="https://www.cdkglobal.com/us">CDK Global Inc.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavjayachandran&show_icons=true&locale=en&layout=compact" alt="pranavjayachandran" /></p>
 
-[![Twitter: Ashif](https://img.shields.io/twitter/follow/beingAshifZafar?style=social)](https://twitter.com/beingAshifZafar)
-[![Linkedin: Ashif](https://img.shields.io/badge/-AshifZafar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashif-zafar-70618434/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/AshifMohammad?label=follow&style=social)](https://github.com/AshifMohammad)
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavjayachandran&show_icons=true&locale=en" alt="pranavjayachandran" /></p>
 
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const ashifZafar = {
-  pronouns: "he" | "his",
-  code: [Javascript, Typescript, HTML, CSS, Java, C# ],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, React-Testing-library,  docker, ansible , bamboo , devOps  ],
-  architecture: ["microfrontend", "miroservices","event-driven", "design system pattern", "behavior-driven-development", "test-driven-development"],
-  techCommunities: {
-                        coorganizer: ["corbiton","apache", "unicef"],
-                        speaker: "English/Urdu",
-                        workExperiences: [{companyName:"waltDisneyLondon", role:"programmerAnalyst"},
-                                          {companyName:"cdkGlobalInc", role:"softwareEngineer"},]
-
-
-                                           
-                      },
-}
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
----
-
- <img src="https://user-images.githubusercontent.com/20770645/90959204-22aafa00-e4b7-11ea-94d3-0139a8b1fd97.jpg" width="230">
- 
- ---
- ⭐️ From [@Ashif](https://github.com/Ashif)
- 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavjayachandran&" alt="pranavjayachandran" /></p>
  
