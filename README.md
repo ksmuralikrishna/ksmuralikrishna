@@ -3,8 +3,7 @@
 
 <div align="center">
 
-🎓 I'm a Computer Science Graduate<br>
-💻 Tech Enthusiast<br>
+💻I'm a Software Engineer<br>
 <br>
 </div>
 
@@ -21,7 +20,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,django,flask,mysql,postgresql,docker,git,firebase,c,cpp,java,php,&perline=8" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,javascript,jquery,python,html,css,javascript,mysql,angular,git,django,flask,postgresql,firebase,c,cpp,java,&perline=8" />
   </a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ksmuralikrishna&label=Profile%20views&color=0e75b6&style=flat" alt="ksmuralikrishna" /> </p>
