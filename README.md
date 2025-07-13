@@ -9,7 +9,7 @@
 
 
 <div align="center">Connect With me</div>
-<p align="center">
+<p align="center"> 
 <!-- <a href=_____ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt=__________ height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/ksmuralikrishna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <!-- <a href="https://codeforces.com/profile/_____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/_____" height="30" width="40" /></a>
