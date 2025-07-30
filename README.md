@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muralikrishna K S  </h1>
 <br> 
 
-<div align="center">  
+<div align="center">   
 
 💻I'm a Software Engineer<br>
 <br>
